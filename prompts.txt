@@ -1,0 +1,17 @@
+PROMPT 1:
+Act as an SEO expert and create a pillar blog on 'Andhra Pradesh Travel Guide' for a travel agency located in Tirupati.
+
+PROMPT 2:
+Generate 5 supporting blog topics related to Andhra Pradesh tourism that can internally link to the pillar blog.
+
+PROMPT 3:
+Perform keyword research for a travel agency and identify primary and secondary keywords with search intent.
+
+PROMPT 4:
+Create a local SEO strategy for a travel agency in Tirupati, Andhra Pradesh.
+
+PROMPT 5:
+Design an internal linking strategy using a hub-and-spoke content cluster model.
+
+PROMPT 6:
+Suggest SEO-friendly titles and meta descriptions for all blogs in the content cluster.
