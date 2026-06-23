@@ -146,7 +146,6 @@ FUTURE_PE_03_SEO_CONTENT_CLUSTER/
 ├── keyword_research/
 ├── pillar_blog/
 ├── supporting_blogs/
-├── screenshots/
 ```
 
 ---
